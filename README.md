@@ -7,20 +7,20 @@ Our research questions for the report was:
 How does the Instagram account @kend_din_by use AI to reconstruct collective memory of Copenhagen?
 Do AI-reconstructed videos evoke the same feelings of nostalgia as original historical videos?
 
-Contents:
+<b>Contents:</b>
 * Data Files: Raw survey data, cleaned SPSS datasets and outputs with tests used in the report. 
 * Experiment: The original experiment with survey questions and scales 
 * Findings: Report with key results, charts, and theoretical framework about nostalgia and collective memory.
 
 Videos: <br>
-The two videos from the experiment can be found here: 
+The two videos from the experiment can be found here:  <br> 
 Original: https://youtube.com/shorts/R1ywpah8mmo?feature=share <br>
 AI: https://youtube.com/shorts/1MvbZ9E09Lo?feature=share 
   
-License:<br>
+<b>License:</b> <br>
 This project is released under the MIT License. Please provide appropriate credit if using the data or code.
 
-Contact: <br>
+<b>Contact: </b> <br>
 For questions, contributions, or collaboration opportunities, please reach out to Laura Dalgaard (rlc970@alumni.ku.dk) or Ludvig Wiedemann (wkh633@alumni.ku.dk), MA students at University of Copenhagen. 
 
 
