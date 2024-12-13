@@ -16,7 +16,7 @@ License
 This project is released under the MIT License. Please provide appropriate credit if using the data or code.
 
 Contact
-For questions, contributions, or collaboration opportunities, please reach out to Laura Dalgaard (rlc970alumni.ku.dk) or Ludvig Wiedemann (wkh633@alumni.ku.dk), MA students at University of Copenhagen. 
+For questions, contributions, or collaboration opportunities, please reach out to Laura Dalgaard (rlc970@alumni.ku.dk) or Ludvig Wiedemann (wkh633@alumni.ku.dk), MA students at University of Copenhagen. 
 
 
 Issue date: 13.12.2024
