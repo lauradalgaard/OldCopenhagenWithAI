@@ -11,6 +11,11 @@ Contents:
 * Data Files: Raw survey data, cleaned SPSS datasets and outputs with tests used in the report. 
 * Experiment: The original experiment with survey questions and scales 
 * Findings: Report with key results, charts, and theoretical framework about nostalgia and collective memory.
+
+Videos: 
+The two videos from the experiment can be found here: 
+Original: https://youtube.com/shorts/R1ywpah8mmo?feature=share
+AI: https://youtube.com/shorts/1MvbZ9E09Lo?feature=share 
   
 License:This project is released under the MIT License. Please provide appropriate credit if using the data or code.
 
