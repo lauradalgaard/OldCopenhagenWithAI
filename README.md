@@ -12,7 +12,7 @@ Do AI-reconstructed videos evoke the same feelings of nostalgia as original hist
 * Experiment: The original experiment with survey questions and scales 
 * Findings: Report with key results, charts, and theoretical framework about nostalgia and collective memory.
 
-Videos: <br>
+<b> Videos: <br> </b> 
 The two videos from the experiment can be found here:  <br> 
 Original: https://youtube.com/shorts/R1ywpah8mmo?feature=share <br>
 AI: https://youtube.com/shorts/1MvbZ9E09Lo?feature=share 
