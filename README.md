@@ -12,14 +12,15 @@ Contents:
 * Experiment: The original experiment with survey questions and scales 
 * Findings: Report with key results, charts, and theoretical framework about nostalgia and collective memory.
 
-Videos: 
+Videos: <b>
 The two videos from the experiment can be found here: 
-Original: https://youtube.com/shorts/R1ywpah8mmo?feature=share
+Original: https://youtube.com/shorts/R1ywpah8mmo?feature=share <b>
 AI: https://youtube.com/shorts/1MvbZ9E09Lo?feature=share 
   
-License:This project is released under the MIT License. Please provide appropriate credit if using the data or code.
+License:<b>
+This project is released under the MIT License. Please provide appropriate credit if using the data or code.
 
-Contact: 
+Contact: <b>
 For questions, contributions, or collaboration opportunities, please reach out to Laura Dalgaard (rlc970@alumni.ku.dk) or Ludvig Wiedemann (wkh633@alumni.ku.dk), MA students at University of Copenhagen. 
 
 
