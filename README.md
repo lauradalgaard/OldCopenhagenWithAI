@@ -1,7 +1,7 @@
 # OldCopenhagenWithAI
-This repository contains data, code, and analysis for the study "Old Copenhagen with AI", which investigates how AI-generated and AI-restored videos impact nostalgia and the reconstruction of collective memory. The study focuses on videos from the Instagram account @kend_din_by, which restores historical footage of Copenhagen using AI technologies.
+This repository contains data, code, and analysis for the study "Old Copenhagen with AI", which investigates how AI-restored videos impact nostalgia and the reconstruction of collective memory. The study uses videos from the Instagram account @kend_din_by as a case, which restores historical footage of Copenhagen using AI technologies.
 
-Through a quantitative survey experiment, participants were shown either an AI-restored colorized video or the original black-and-white footage of 1920s Copenhagen. The aim was to determine if AI-generated reconstructions evoke the same sense of nostalgia as original historical footage and how these videos shape perceptions of Copenhagen's past.
+Through a quantitative survey experiment, participants were randomly divided into two comparison groups and shown either an AI-restored colorized video or the original black-and-white footage of 1910's and 20s Copenhagen. The aim was to determine if AI-generated reconstructions evoke the same sense of nostalgia as original historical footage and how these videos shape perceptions of Copenhagen's past.
 
 Our research questions for the report was:
 How does the Instagram account @kend_din_by use AI to reconstruct collective memory of Copenhagen?
